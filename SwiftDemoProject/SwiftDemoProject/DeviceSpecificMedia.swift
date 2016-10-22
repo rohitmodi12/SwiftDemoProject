@@ -2,8 +2,8 @@
 //  DeviceSpecificMedia.swift
 //  SureAppInSwift
 //
-//  Created by Ranosys on 07/05/15.
-//  Copyright (c) 2015 Ranosys. All rights reserved.
+//  Created by  Rohit on 07/05/15.
+//  Copyright (c) 2015  Rohit. All rights reserved.
 //
 
 import UIKit

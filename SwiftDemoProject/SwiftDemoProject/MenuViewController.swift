@@ -2,8 +2,8 @@
 //  MenuViewController.swift
 //  SwiftDemo
 //
-//  Created by Hema on 11/10/16.
-//  Copyright © 2016 Ranosys. All rights reserved.
+//  Created by Rohit on 11/10/16.
+ 
 //
 
 import UIKit

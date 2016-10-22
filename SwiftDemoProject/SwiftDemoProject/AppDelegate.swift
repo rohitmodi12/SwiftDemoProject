@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SwiftDemoProject
 //
-//  Created by Ranosys on 10/10/16.
-//  Copyright © 2016 Ranosys. All rights reserved.
+//  Created by  Rohit on 10/10/16.
+ 
 //
 
 import UIKit
